@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 CakePHP
 =======
 
@@ -37,3 +38,7 @@ Get Support!
 [![Bake Status](https://secure.travis-ci.org/cakephp/cakephp.png?branch=2.4)](http://travis-ci.org/cakephp/cakephp)
 
 ![Cake Power](https://raw.github.com/cakephp/cakephp/master/lib/Cake/Console/Templates/skel/webroot/img/cake.power.gif)
+=======
+new
+===
+>>>>>>> fd7d6780bf7a85722636b96e3d44df9f4e97ec6f
